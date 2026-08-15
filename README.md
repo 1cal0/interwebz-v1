@@ -18,7 +18,7 @@ this version has fixed crashes and removed unused features, uses original src fo
 
 ### configs
 - saved to `C:\iwebz\` as `<name>.cfg`
-- configs are stored locally, no server needed
+- configs are stored locally, no server needed, og src relied on a php webserver
 
 ### building
 - compile the project as an x86 dll and inject into csgo alongside the sdk headers
